@@ -1,0 +1,6 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "ESP32NEW") (type "KiCad") (uri "${KIPRJMOD}/ESP32NEW.pretty") (options "") (descr ""))
+	(lib (name "CP2102N-A01-GQFN28") (type "KiCad") (uri "${KIPRJMOD}/CP2102N-A01-GQFN28.pretty") (options "") (descr ""))
+	(lib (name "MMSS8050-H-TP") (type "KiCad") (uri "${KIPRJMOD}/MMSS8050-H-TP.pretty") (options "") (descr ""))
+)
